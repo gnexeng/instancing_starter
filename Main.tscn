@@ -149,4 +149,4 @@ position = Vector2(660, 144)
 
 [node name="Ball5" parent="." instance=ExtResource("2")]
 position = Vector2(126, 186)
-gravity_scale = 10.0
+gravity_scale = 20.0
